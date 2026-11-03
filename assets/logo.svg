@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 170" role="img" aria-labelledby="title desc">
+<title id="title">SolarPro</title><desc id="desc">Sol naciente detrás de un panel solar y nombre SolarPro</desc>
+<defs>
+ <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd33d"/><stop offset="1" stop-color="#ff7900"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2876a8"/><stop offset="1" stop-color="#082541"/></linearGradient>
+</defs>
+<g transform="translate(12 10)">
+ <g stroke="#ff9a00" stroke-width="7" stroke-linecap="round">
+  <path d="M82 3V20M30 22l12 13M9 75h18M145 75h18M135 22l-12 13"/>
+ </g>
+ <circle cx="91" cy="76" r="58" fill="url(#sun)"/>
+ <path d="M34 83a58 58 0 0 1 114 0" fill="none" stroke="#fff3c7" stroke-width="5"/>
+ <path d="M20 108 137 67l20 10-117 45z" fill="url(#panel)" stroke="#fff" stroke-width="3"/>
+ <path d="m58 95 10 19m27-29 10 20m27-29 9 19M43 112l104-36" stroke="#d8efff" stroke-width="3" fill="none"/>
+ <path d="M14 128c35 20 112 11 150-23" fill="none" stroke="#ff9a00" stroke-width="9" stroke-linecap="round"/>
+</g>
+<text x="195" y="105" font-family="'Exo 2',Arial,sans-serif" font-size="91" font-weight="900" letter-spacing="-4" fill="#082541">Solar<tspan fill="#ff7900">Pro</tspan></text>
+<text x="201" y="143" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#66788b">DISEÑA · COTIZA · AHORRA</text>
+</svg>
